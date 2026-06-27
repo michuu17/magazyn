@@ -6,7 +6,7 @@ System Magazynowy. Aplikacja backendowa REST API w technologii ASP.NET Core Web 
 
 ## Repozytorium Git
 
-Adres repozytorium: (tutaj wstaw link do swojego repozytorium)
+Adres repozytorium: https://github.com/michuu17/magazyn
 
 ## Opis domeny
 
